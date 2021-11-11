@@ -28,7 +28,7 @@
 <br />
 
 ---
-<div style="display:inline-block">
+<div style="display:inline-block; width: 50%">
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElifBahar&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
   
