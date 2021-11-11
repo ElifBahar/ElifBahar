@@ -1,5 +1,12 @@
-### Hi there, I'm Bahar - aka [Vıtvıt] 👋 
+### Hi there, I'm Bahar 👋 
 
+## I'm a Software Engineer, Developer, TechLover, Catowner, and a believer in De-Fi!!
+
+- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m hoping to be a content creator and looking forward to collaborate with other content creators
+- 🥅 2022 Goals: Passing exam succesfully to be an academician, learn PHP more and add some server administration skills to my tools.
+- ⚡ Fun fact: I love to play guitar and  and riding motorcycle.
 
 <!--
 **ElifBahar/ElifBahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
