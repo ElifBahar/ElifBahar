@@ -28,23 +28,15 @@
 <br />
 
 ---
-<div style="display:inline-block; width: 50%">
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElifBahar&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
 
-<div style="display:inline-block; width: 30%">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElifBahar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
- </div>
+
  
  
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElifBahar&layout=compact"></img> </p>                                                                                                    
 <br />
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=abdulskaya&count_private=true&show_icons=true&theme=cobalt" alt="Abdulsamet Kaya:: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ElifBahar&count_private=true&show_icons=true&theme=merko" alt="ElifBahar:: Profile Stats" /></p>
 
 
 [linkedin]: https://www.linkedin.com/in/elif-bahar-%C3%B6zdo%C4%9Fru/
