@@ -38,6 +38,8 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ElifBahar&show_icons=true&theme=radical&count_private=true&include_all_commits" alt="ElifBahar :: Profile Stats" /></p>
 
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=ElifBahar&theme=radical&date_format=%5BY%20%5DM%20j&background=193549" alt="ElifBahar:: Profile Stats" /></p>
+
 
 [linkedin]: https://www.linkedin.com/in/elif-bahar-%C3%B6zdo%C4%9Fru/
 
