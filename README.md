@@ -40,7 +40,7 @@
 
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=ElifBahar&theme=merko&date_format=M%20j%5B%2C%20Y%5D" alt="ElifBahar:: Profile Stats" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ElifBahar&label=Profile%20views&color=0e75b6&style=flat" alt="ElifBahar" /> </p>
+<p align="center"> ![](https://komarev.com/ghpvc/?ElifBahar&color=redstyle=for-the-badge	) </p>
 
 [linkedin]: https://www.linkedin.com/in/elif-bahar-%C3%B6zdo%C4%9Fru/
 
