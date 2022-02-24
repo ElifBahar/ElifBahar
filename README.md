@@ -36,7 +36,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElifBahar&layout=compact"></img> </p>                                                                                                    
 <br />
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ElifBahar&show_icons=true&theme=radical&count_private=true" alt="ElifBahar :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ElifBahar&show_icons=true&theme=merko&count_private=true" alt="ElifBahar :: Profile Stats" /></p>
 
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=ElifBahar&theme=merko&date_format=M%20j%5B%2C%20Y%5D" alt="ElifBahar:: Profile Stats" /></p>
 
