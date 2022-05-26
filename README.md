@@ -4,8 +4,8 @@
 
 ## I'm a Software Engineer, Developer, TechLover, Catowner, and a believer in De-Fi!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m hoping to be a content creator and looking forward to collaborate with other content creators
+- 🌱 Always trying to absorb every little bit of information
+- 👯 I hope to be a useful resource provider in the open-source world
 - 🥅 2022 Goals: Passing exam succesfully to be an academician, learn PHP more and add some server administration skills to my tools.
 - ⚡ Fun fact: I love to play guitar and  and riding motorcycle.
 
